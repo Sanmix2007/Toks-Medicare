@@ -1,2 +1,3 @@
 # Toks-Medicare
-kindly download the xd file to view how design prototyping works
+kindly download the xd file to view how design prototyping works.
+Thank you!
